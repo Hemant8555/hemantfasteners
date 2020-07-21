@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hemant Fasteners",
-    "currentPage": "Product.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -52,9 +52,9 @@
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/img-20200715-130931-01-2.jpg",
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://hemantfasteners.com",
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png"
