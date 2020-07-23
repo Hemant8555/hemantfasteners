@@ -1124,12 +1124,15 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-s5xUNiwXiE {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #031318;
 }
 .cid-s5xUNiwXiE .mbr-section-subtitle {
   color: #767676;
+}
+.cid-s5xUNiwXiE H2 {
+  color: #ffffff;
 }
 .cid-s5xUMWSBFm {
   padding-top: 15px;
@@ -1786,7 +1789,7 @@ section.lazy-placeholder:after {
 }
 .cid-s5xySnBjpf {
   padding-top: 90px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s5xySnBjpf h4 {
