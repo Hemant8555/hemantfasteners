@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hemant Fasteners",
-    "currentPage": "index.html",
+    "currentPage": "Product.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2022,7 +2022,7 @@
     },
     "Product.html": {
       "settings": {
-        "meta_descr": "We offers a range of fasteners, the range is the widest that is available in the market today. Standard and made for specific requirements our fasteners conform to various international standards.",
+        "meta_descr": "Extensive Selection of Industrial Supplies - Fasteners, Nuts & Bolts, Screws, Washers in Stainless Steel & More. Hexagon Bolts, Allen/Socket Head Bolts etc.",
         "title": "Types of fasteners (nut,bolts) we supply",
         "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/img_20200715_130931_-1-381x366.jpg"
