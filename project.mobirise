@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hemant Fasteners",
-    "currentPage": "Product.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -71,7 +71,7 @@
       "settings": {
         "main": true,
         "title": "Nut,Bolt(Fasteners)manufacturers and suppliers in India|Rohtak",
-        "meta_descr": "We are leading manufacturer of fasteners washers, allen bolt, hex bolt, foundation bolt etc in stainless steel grades, nickel alloys grades, high tensile, mild steel.",
+        "meta_descr": "We are leading manufacturer of fasteners washers,nut & bolts etc in stainless steel grades in all sizes supplying in delhi ,gurgaon, faridabad and various places in India.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -827,9 +827,10 @@
     },
     "Contact.html": {
       "settings": {
-        "meta_descr": "Feel free to contact us any time.",
+        "meta_descr": "We provide a wide range of cold forging fasteners. Feel free to contact us any time. Visit us, E-mail, Contact number:",
         "title": "Contact Us | Hemant Fasteners",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/img_20200715_130931_-1-381x366.jpg"
       },
       "components": [
         {
@@ -1336,7 +1337,8 @@
       "settings": {
         "meta_descr": "IATF 16949 Certified Company, ISO 14001 Certified Company Hemant Fasteners was set up in 2012 under...",
         "title": "About Us | Hemant Fasteners | Fasteners Suppliers",
-        "order": 2
+        "order": 2,
+        "meta_image": "@PROJECT_PATH@/assets/images/img_20200715_130931_-1-381x366.jpg"
       },
       "components": [
         {
@@ -2022,7 +2024,8 @@
       "settings": {
         "meta_descr": "We offers a range of fasteners, the range is the widest that is available in the market today. Standard and made for specific requirements our fasteners conform to various international standards.",
         "title": "Types of fasteners (nut,bolts) we supply",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/img_20200715_130931_-1-381x366.jpg"
       },
       "components": [
         {
