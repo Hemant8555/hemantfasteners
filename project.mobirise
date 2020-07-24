@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hemant Fasteners",
-    "currentPage": "About.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -56,12 +56,12 @@
     "versionPublish": "4.12.4",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/img-20200715-130931-01-2.jpg",
-    "robotsSwitcher": false,
+    "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://hemantfasteners.com",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "cookiesAlert": false,
     "gdpr": false,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-165288183-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-165288183-1');\n</script>\n"
@@ -71,7 +71,7 @@
       "settings": {
         "main": true,
         "title": "Nut,Bolt(Fasteners)manufacturers and suppliers in India|Rohtak",
-        "meta_descr": "We are leading manufacturer of fasteners washers,nut & bolts etc in stainless steel grades in all sizes supplying in delhi ,gurgaon, faridabad and various places in India.",
+        "meta_descr": "We are leading manufacturer of fasteners washers,nut & bolts etc in stainless steel grades in all sizes supplying in delhi ,gurgaon, faridabad and all across India.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
