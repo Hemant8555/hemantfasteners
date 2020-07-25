@@ -3723,13 +3723,6 @@
         {
           "alias": false,
           "_styles": {
-            "body": {
-              "@font-face": {
-                "font-family": "'Sansation_Regular'",
-                "font-display": "swap",
-                "src": "url('file:///C:/Users/hkaja/Documents/HemantFasteners/fonts/Sansation_Regular/font.ttf')"
-              }
-            },
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
@@ -3746,6 +3739,14 @@
             },
             "H5": {
               "color": "#04181f"
+            },
+            "@font-face": {
+              "font-family": "'Sansation_Regular'",
+              "font-display": "swap",
+              "src": "url('file:///C:/Users/hkaja/Documents/HemantFasteners/fonts/Sansation_Regular/font.ttf')"
+            },
+            "body": {
+              "font-family": "Sansation_Regular"
             }
           },
           "_name": "content4",
