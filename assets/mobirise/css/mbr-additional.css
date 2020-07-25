@@ -3785,11 +3785,6 @@ section.lazy-placeholder:after {
   padding-bottom: 15px;
   background-color: #ffffff;
 }
-@font-face {
-  font-family: 'Sansation_Regular';
-  font-display: swap;
-  src: url('../../../file:///C:/Users/hkaja/Documents/HemantFasteners/fonts/Sansation_Regular/font.ttf');
-}
 .cid-s5JoX4Fxwx .mbr-section-subtitle {
   color: #767676;
 }
@@ -3803,6 +3798,14 @@ section.lazy-placeholder:after {
 }
 .cid-s5JoX4Fxwx H5 {
   color: #04181f;
+}
+@font-face {
+  font-family: 'Sansation_Regular';
+  font-display: swap;
+  src: url('../../../file:///C:/Users/hkaja/Documents/HemantFasteners/fonts/Sansation_Regular/font.ttf');
+}
+.cid-s5JoX4Fxwx body {
+  font-family: Sansation_Regular;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
